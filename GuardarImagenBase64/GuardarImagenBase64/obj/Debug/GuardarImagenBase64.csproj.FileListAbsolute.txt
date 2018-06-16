@@ -1,0 +1,9 @@
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\bin\Debug\GuardarImagenBase64.exe.config
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\bin\Debug\GuardarImagenBase64.exe
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\bin\Debug\GuardarImagenBase64.pdb
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.csprojResolveAssemblyReference.cache
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.Form1.resources
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.Properties.Resources.resources
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.csproj.GenerateResource.Cache
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.exe
+c:\users\casa\documents\visual studio 2012\Projects\GuardarImagenBase64\GuardarImagenBase64\obj\Debug\GuardarImagenBase64.pdb
